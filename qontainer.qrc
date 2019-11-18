@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>view/images/qontainer.png</file>
+        <file>view/images/logo.png</file>
+        <file>view/images/icons/dumbbell.png</file>
+        <file>view/images/icons/bicep.png</file>
+        <file>view/images/icons/cronometro.png</file>
+        <file>view/images/icons/heartrate.png</file>
+        <file>view/images/icons/dumbbell_w.png</file>
+        <file>view/images/icons/bicep_w.png</file>
+        <file>view/images/icons/cronometro_w.png</file>
+        <file>view/images/icons/heartrate_w.png</file>
+        <file>view/images/icons/fail.png</file>
+        <file>view/images/icons/success.png</file>
+        <file>style.css</file>
+    </qresource>
+</RCC>
