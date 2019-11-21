@@ -27,9 +27,20 @@ On your command line. Then click on the executable in the root folder the two af
 
 Here’s what the GUI looks like:
 
-![Home Page](/GUI_img/home_page.png)
-<img src="/GUI_img/home_page.png" width="200" height="200">
+<img src="/GUI_img/home_page.png" width="500" height="500">
+<img src="/GUI_img/aggiungi_forza.png" width="500" height="500">
+<img src="/GUI_img/aggiungi_ip.png" width="500" height="500">
+<img src="/GUI_img/aggiungi_hiit.png" width="500" height="500">
+<img src="/GUI_img/aggiungi_liss.png" width="500" height="500">
+<img src="/GUI_img/aggiunta_riuscita.png" width="500" height="500">
+<img src="/GUI_img/visualizza.png" width="500" height="500">
+<img src="/GUI_img/cerca.png" width="500" height="500">
+<img src="/GUI_img/ricerca_fallita.png" width="500" height="500">
+<img src="/GUI_img/gestisci.png" width="500" height="500">
+<img src="/GUI_img/modifica.png" width="500" height="500">
+<img src="/GUI_img/elimina.png" width="500" height="500">
 
+## Other (more technical) things
 As far as all the technical stuff goes, Qontainer is a container which main purpose is to contain a series of miscellaneous elements (no pun intended).
 To pursue this purpose we were asked to develop a hierarchy using C++ and I chose to base mine on fitness exercises (the complete hierarchy and other technicalities can be found in the file ‘relazione.pdf’).
 
