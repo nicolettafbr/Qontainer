@@ -49,9 +49,14 @@ When you add and exercise successfully you are greeted by a very big man with a 
 <img src="/GUI_img/aggiunta_riuscita.png" width="500" height="500">
 
 If you click on *Visualizza* and then on one of the random buttons on the left this is what you'll see:                                   
-<img src="/GUI_img/visualizza.png" width="500" height="500">
+<img src="/GUI_img/visualizza.png" width="500" height="500">                                                                              
+One thing I really wanted to implement was that for every kind of exercise the app calculates for you useful things such as:
+1. STRENGHT TRAINING: One Rep Max, %Weight Lifted, Volume
+2. HYPERTROPHY: Volume
+3. HIIT: Total duration of your workout, you maximum Hear Rate, the cardio zone you were in
+4. LISS: Total duration of your workout, you maximum Hear Rate, the cardio zone you were in
 
-On the other hand, if you aim is to search for a particular exercise you can insert both the name and the date of execution and you will get back the exercises that match those two elements:
+If you aim is to search for a particular exercise you can insert both the name and the date of execution and you will get back the exercises that match those two elements:
 <img src="/GUI_img/cerca.png" width="500" height="500">
 
 I haven't implemented a thorough research algorithm yet (my bad), so if you leave one of those two search fields blank you will get an error message that looks like the following:
