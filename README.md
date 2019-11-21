@@ -1,6 +1,6 @@
 # Qontainer
 
-##Brief Summary
+## Brief Summary
 
 Qontainer is the OOP Project I developed during my second year as a Computer Science student at the University of Padua.
 
@@ -12,7 +12,7 @@ For each kind of exercise you are asked to fill in some specific fields required
 
 For the time being the app is only available in Italian, but an English translation is DEFINITELY on my to-do list!
 
-##Compilation
+## Compilation
 
 HOW TO COMPILE: Given you have qmake installed, just type 
 
@@ -23,7 +23,7 @@ On your command line. Then click on the executable in the root folder the two af
                 
 !!IMPORTANT!!: As the app opens you will be asked to select a file. Choose the file named 'db.txt' that you will find in the root folder of the Qontainer directory you have just cloned: this is the actual database where all the actual exercises reside and where you will be able to save them. So, as soon as you compile the project and click on the executable, go on and select the 'db.txt' file present in the Qontainer folder. Now have fun! :)
 
-##GUI
+## GUI
 
 Here’s what the GUI looks like:
 
