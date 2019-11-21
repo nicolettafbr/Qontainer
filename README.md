@@ -1,4 +1,4 @@
-# Qontainer
+<img src="/view/images/qontainer.png" width="auto" height="auto" align="center">
 
 ## Brief Summary
 
