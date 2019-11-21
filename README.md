@@ -12,6 +12,7 @@ For each kind of exercise you are asked to fill in some specific fields required
 
 For the time being the app is only available in Italian, but an English translation is DEFINITELY on my to-do list!
 
+
 ## Compilation
 
 HOW TO COMPILE: Given you have qmake installed, just type 
@@ -23,13 +24,18 @@ On your command line. Then click on the executable in the root folder the two af
                 
 !!IMPORTANT!!: As the app opens you will be asked to select a file. Choose the file named *db.txt* that you will find in the root folder of the *Qontainer* directory you have just cloned: this is the actual database where all the actual exercises reside and where you will be able to save them. So, as soon as you compile the project and click on the executable, go on and select the *db.txt* file present in the *Qontainer* folder. Now have fun! :)
 
+
 ## GUI
 
 My aim was to develop a GUI that's both quite simple to use AND catchy at the same time. You let me know if I did a good job or not.
 Here’s what the GUI looks like:
 
+### Home Page
+
 Home page (which redirects you to the *Add* page):                                                                                        
 <img src="/GUI_img/home_page.png" width="500" height="500" align="center">
+
+### Add an exercise
 
 Now onto the add itself. Here is what the *Add* page looks like for different exercises:
 
@@ -48,6 +54,8 @@ LISS:
 When you add and exercise successfully you are greeted by a very big man with a VERY big bicep. Hope that motivates you to work out even harder the next time!                                                                                                                    
 <img src="/GUI_img/aggiunta_riuscita.png" width="500" height="500">
 
+### View your exercises
+
 If you click on *Visualizza* and then on one of the random buttons on the left this is what you'll see:                                   
 <img src="/GUI_img/visualizza.png" width="500" height="500">                                                                              
 One thing I really wanted to implement was that for every kind of exercise the app calculates for you useful things such as:
@@ -56,11 +64,15 @@ One thing I really wanted to implement was that for every kind of exercise the a
 3. HIIT: Total duration of your workout, you maximum Hear Rate, the cardio zone you were in
 4. LISS: Total duration of your workout, you maximum Hear Rate, the cardio zone you were in
 
-If you aim is to search for a particular exercise you can insert both the name and the date of execution and you will get back the exercises that match those two elements:
+### Search for an exercise
+
+If you aim is to search for a particular exercise you can insert both the name and the date of execution and you will get back the exercises that match those two elements:                                                                                                   
 <img src="/GUI_img/cerca.png" width="500" height="500">
 
 I haven't implemented a thorough research algorithm yet (my bad), so if you leave one of those two search fields blank you will get an error message that looks like the following:
 <img src="/GUI_img/ricerca_fallita.png" width="500" height="500">
+
+### Manage your exercises
 
 Should you decide to modify/delete any of the exercises, just click on *Gestisci*:                                                        
 <img src="/GUI_img/gestisci.png" width="500" height="500">
@@ -68,6 +80,7 @@ Should you decide to modify/delete any of the exercises, just click on *Gestisci
 
 Whenever you decide to delete an exercise, you will be asked to confirm your decision:                                                    
 <img src="/GUI_img/elimina.png" width="500" height="500">
+
 
 ## Other (more technical) things
 As far as all the technical stuff goes, Qontainer is a container which main purpose is to contain a series of miscellaneous elements (no pun intended).
