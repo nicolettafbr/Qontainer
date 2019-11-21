@@ -27,7 +27,7 @@ On your command line. Then click on the executable in the root folder the two af
 
 Here’s what the GUI looks like:
 
-![Home Page](/GUI_img/home_page.png)
+![Home Page](/GUI_img/home_page.png =250x)
 
 As far as all the technical stuff goes, Qontainer is a container which main purpose is to contain a series of miscellaneous elements (no pun intended).
 To pursue this purpose we were asked to develop a hierarchy using C++ and I chose to base mine on fitness exercises (the complete hierarchy and other technicalities can be found in the file ‘relazione.pdf’).
