@@ -27,7 +27,7 @@ On your command line. Then click on the executable in the root folder the two af
 
 Here’s what the GUI looks like:
 
-<img src="/GUI_img/home_page.png" width="500" height="500">
+<img src="/GUI_img/home_page.png" width="500" height="500" align="center">
 <img src="/GUI_img/aggiungi_forza.png" width="500" height="500">
 <img src="/GUI_img/aggiungi_ip.png" width="500" height="500">
 <img src="/GUI_img/aggiungi_hiit.png" width="500" height="500">
