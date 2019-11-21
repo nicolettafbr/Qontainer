@@ -6,7 +6,7 @@ Qontainer is the OOP Project I developed during my second year as a Computer Sci
 
 Qontainer is a fitness app that lets you track your exercises to make your gym sessions easier than ever!
 
-You can choose from four different types of exercises: strength (forza), hypertrophy (ipertrofia) and two types of cardio, namely liss (low intensity steady state cardio) and hiit (high intensity steady state cardio). 
+You can choose from four different types of exercises: strength (forza), hypertrophy (ipertrofia) and two types of cardio, namely LISS (Low Intensity Steady State Cardio) and HIIT (High Intensity Interval Training). 
 
 For each kind of exercise you are asked to fill in some specific fields required to calculate super useful and rad things such as your one rep max or your cardio training zone, i.e. in every strength exercise you are asked for the number of sets, reps and the weight used, whereas for every hiit session you perform you should put in the number of intervals of work/rest performed and how much they lasted.
 
@@ -20,7 +20,7 @@ HOW TO COMPILE: Given you have qmake installed, just type
                 qmake project.pro
                 make
                 
-On your command line. Then click on the executable in the root folder the two aforementioned commands have created and you're good to go.
+On your command line. Then click on the executable the two aforementioned commands have created and you're good to go.
                 
 !!IMPORTANT!!: As the app opens you will be asked to select a file. Choose the file named *db.txt* that you will find in the root folder of the *Qontainer* directory you have just cloned: this is the actual database where all the actual exercises reside and where you will be able to save them. So, as soon as you compile the project and click on the executable, go on and select the *db.txt* file present in the *Qontainer* folder. Now have fun! :)
 
@@ -28,7 +28,7 @@ On your command line. Then click on the executable in the root folder the two af
 ## GUI
 
 My aim was to develop a GUI that's both quite simple to use AND catchy at the same time. You let me know if I did a good job or not.
-Here’s what the GUI looks like:
+Here’s what the user interface looks like:
 
 ### Home Page
 
