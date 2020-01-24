@@ -70,6 +70,7 @@ If you aim is to search for a particular exercise you can insert both the name a
 <img src="/GUI_img/cerca.png" width="500" height="500">
 
 I haven't implemented a thorough research algorithm yet (my bad), so if you leave one of those two search fields blank you will get an error message that looks like the following:
+
 <img src="/GUI_img/ricerca_fallita.png" width="500" height="500">
 
 ### Manage your exercises
