@@ -22,7 +22,7 @@ HOW TO COMPILE: Given you have qmake installed, just type
                 
 On your command line. Then click on the executable the two aforementioned commands have created and you're good to go.
                 
-!!IMPORTANT!!: As the app opens you will be asked to select a file. Choose the file named *db.txt* that you will find in the root folder of the *Qontainer* directory you have just cloned: this is the actual database where all the actual exercises reside and where you will be able to save them. So, as soon as you compile the project and click on the executable, go on and select the *db.txt* file present in the *Qontainer* folder. Now have fun! :)
+!!  IMPORTANT  !!: As the app opens you will be asked to select a file. Choose the file named *db.txt* that you will find in the root folder of the *Qontainer* directory you have just cloned: this is the actual database where all the actual exercises reside and where you will be able to save them. So, as soon as you compile the project and click on the executable, go on and select the *db.txt* file present in the *Qontainer* folder. Now have fun! :)
 
 
 ## GUI
